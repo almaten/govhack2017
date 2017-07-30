@@ -1,0 +1,171 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K4100M (ID=0x11b7)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween43.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween46.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween50.dll (this message is harmless)
+Loading E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\DOTween50.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\My Projects\Hackathon\E-VAC\Release\CoordinatorApp_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.245934 ms
+24
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"1 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7139295,"long":172.4396117,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"3 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7140635,"long":172.4395881,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"5 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7140985,"long":172.4395741,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"7 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7144172,"long":172.4395923,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"9 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7144919,"long":172.4395928,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"11 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7146906,"long":172.4395302,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"13 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7149391,"long":172.4395503,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"15 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7150076,"long":172.4395757,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"17 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7153345,"long":172.439573,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"19 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7153757,"long":172.4395822,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"21 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.715567,"long":172.4396661,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"23 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7157032,"long":172.4397368,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"25 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7157915,"long":172.4397496,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"27 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7160567,"long":172.4396889,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"29 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7163397,"long":172.4397719,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"31 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7164806,"long":172.4398761,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"33 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7166317,"long":172.4396476,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"35 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7168531,"long":172.4398354,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"37 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7170342,"long":172.4398772,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"39 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7171846,"long":172.4398895,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"41 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7173699,"long":172.4398853,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"43 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7174977,"long":172.4398816,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"45 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7176957,"long":172.4398649,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"address":"47 Spackman Ave, Springston 7674, New Zealand","checked_by":"","datetime":"None","lat":-43.7177694,"long":172.4398556,"status":"To Check"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 95b8 -> priority: 1 
+  Thread -> id: 97b0 -> priority: 1 
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CHANGE IMAGE
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
