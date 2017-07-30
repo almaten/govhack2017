@@ -1,0 +1,1 @@
+evac_srv\Scripts\activate.bat
